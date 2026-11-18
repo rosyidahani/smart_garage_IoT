@@ -81,7 +81,7 @@ Berikut adalah koneksi kabel antara komponen sensor dengan pin pada papan **ESP3
 > *Catatan: Ganti nama file gambar di bawah ini sesuai dengan nama file foto/screenshot yang kamu unggah ke folder `dokumentasi/`.*
 
 ### 1. Rangkaian Perangkat Keras (ESP32 + DHT22 + HC-SR04)
-![Foto Rangkaian Fisik](dokumentasi/rangkaian fisik.jpeg)
+![Foto Rangkaian Fisik](dokumentasi/rangkaian_fisik.jpeg)
 
 ### 2. Hasil Pengujian pada Serial Monitor
 ![Screenshot Serial Monitor](dokumentasi/serial_monitor.png)
